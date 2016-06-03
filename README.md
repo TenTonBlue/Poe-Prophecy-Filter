@@ -1,4 +1,4 @@
-# The-Blues
+# Poe-Prophecy-Filter
 
 The MIT License (MIT)
 
